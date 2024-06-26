@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "827227270149",
+    "firebase_url": "https://clientes-sqlitefb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "clientes-sqlitefb",
+    "storage_bucket": "clientes-sqlitefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827227270149:android:a6f10fe57dd2a14944006c",
+        "android_client_info": {
+          "package_name": "com.example.new_clientes_sqlite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpthxc6bS-R87UWwn8I0iIMiXsDgKHFj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
